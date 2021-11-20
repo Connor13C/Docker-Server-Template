@@ -1,4 +1,4 @@
-# Server_Framework
+# Server
 
 This is the server side setup and configuration to host multiple applications through an
 nginx reverse proxy server. All setup is in docker-compose.yml with a specified user for 
